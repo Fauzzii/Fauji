@@ -25,11 +25,6 @@ nav p{
     text-transform: uppercase;
 }
 
-.container .t{
-    position: absolute;
-    color: red;
-}
-
 .loader{
     position: fixed;
     width: 100vw;
